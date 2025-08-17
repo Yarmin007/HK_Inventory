@@ -1,5 +1,4 @@
-
-  const VERSION = '2025-08-11-1';
+ const VERSION = '2025-08-17-2';
   const CACHE = 'hk-inventory-cache-' + VERSION;
   const ASSETS = [ './', './index.html' ];
 
